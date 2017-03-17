@@ -1,0 +1,26 @@
+{
+  "name": "simple-slides",
+  "version": "4.0.0",
+  "description": "Using open web technology to create slide decks SUPER QUICKLY BECAUSE I'M A VERY BUSY WOMAN.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "engines": {
+    "node": "6.9.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/#!/project/simpleslides"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "simpleslides",
+    "slides"
+  ]
+}
